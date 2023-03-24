@@ -22,28 +22,44 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+
+![comp_analisis](https://user-images.githubusercontent.com/80212790/227488999-0b97b4b8-bbb6-4299-bcf1-62b3c7290112.png)
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+- Taller de artesanía nazarí: permite reservar visitas al taller y comprar productos online. La organización de la web deja mucho que desear porque resulta abrumadora al usuario.
+- Tablao Flamenco: diseño algo cargado pero aceptable. Proceso intuitivo de compra de entradas. Ha llamado positivamente la atención la visibilidad oscura que tiene la página.
+- Free Tour Granada: diseño de web simple. Proceso de compra un tanto confuso, por un lado dice que es gratis y por otro que cuesta 8€.
+
+Nota: Red social en este contexto es aquella web en la que compartes fotografías y videos (por ello se excluye Whatsapp).
+
+Conclusión: Escogemos la web ‘Tablao Flamenco’. La causa de la elección es debida a que consideramos que entre las tres webs, esta es la que tiene una interfaz más amigable, más intuitiva, y consideramos que tiene mejor organizada la información. Además, consideramos que es la que más facilidades da al usuario en el proceso de compra.
+
 ![Método UX](img/Persona.png) 1.b Persona
------
+
+![persona1](https://user-images.githubusercontent.com/80212790/227489842-6b7b3013-085b-4612-96aa-f3f1e3ca99bc.png)
+
+![persona2](https://user-images.githubusercontent.com/80212790/227490057-3575e656-3c88-45d5-94f9-95dbc6a6d7fe.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+Se han creado ambos perfiles para poder observar qué van a experimentar, supuestamente, dos personas con personalidades diferentes: una es española (sin problemas con el idioma) y extrovertida, y el otro es estadounidense (problemas con el idioma) e introvertido.
 
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
+
+![dig1](https://user-images.githubusercontent.com/80212790/227490664-8c1b3138-31d5-4d0c-b3c6-05ccc2e4c053.png)
+
+![dig2](https://user-images.githubusercontent.com/80212790/227490818-09624476-ec4e-4129-8251-09ae49cf2da8.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+Justificación: Hemos elegido estos dos perfiles para ver la diferencia de la experiencia de usuario entre uno poco familiarizado con las nuevas tecnologías y otro bastante más familiarizado. El resultado ha sido curioso pues ambos han tenido problemas al reservar y ambos se han ido frustrando cada vez más hasta que por fin han conseguido realizar la reserva. Consideramos que en páginas de este estilo, los problemas al reservar están presentes debido a lo poco intuitivo que es para el usuario.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
