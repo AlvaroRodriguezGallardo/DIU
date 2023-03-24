@@ -65,10 +65,11 @@ Justificación: Hemos elegido estos dos perfiles para ver la diferencia de la ex
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento:  [(sube a github el xls/pdf) ](https://github.com/AlvaroRodriguezGallardo/DIU/blob/813e0f01d01b2c14c32535ef72b2f689fe736ccf/P1/DIU3.LosEpsilonDelta/Usability-review-template%20(1).xlsx)
+>>> - Valoración final (numérica): 65
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Resumen de la valoración: Una página un tanto abrumadora, la galería tiene un contenido bastante atractivo pero el proceso de reserva deja mucho que desear.
 
 ## Paso 2. UX Design  
 
