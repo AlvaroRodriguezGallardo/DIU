@@ -75,37 +75,58 @@ Resumen de la valoración: Una página un tanto abrumadora, la galería tiene un
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
-----
 
+![malla](https://user-images.githubusercontent.com/80212790/235371199-c54f1f93-9da6-46cf-aa15-af824ee13a1d.png)
+
+![EmpathyMap](https://user-images.githubusercontent.com/80212790/235371372-f9dd5999-1e78-41ff-b705-7e292b9bc6a1.png)
+
+![pov](https://user-images.githubusercontent.com/80212790/235371437-a10fec72-376b-4a4f-b835-0fe81eca6697.png)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
-
+Como norma general, los usuarios que van a hacer los cursos de cerámica van a ser
+personas adultas que quieren aprender cerámica y comprar los productos que se crean
+en el taller.
+Pensamos que es buena idea hacer cursos en función de la dificultad (no hacer que
+principiantes tomen la misma clase que profesionales en la materia).
+Creemos que el usuario debería poder reservar los cursos sin que haya un mínimo de
+personas por compra. El usuario puede dar su disponibilidad y que con cierto tiempo con
+antelación, se le avise qué días se puede hacer la visita, y hacer el pago (importante
+extranjeros, pues si se hace el pago sin saber con seguridad si hacer la visita es rentable,
+puede molestarle al usuario que le cancelen la visita en el último momento con todo
+planificado).
+Por último, puede ser interesante que se ofrezca algún medio de transporte para personas
+que no puedan conducir o no tengan vehículo para ir al taller).
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
+
 >>> Propuesta de valor 
 
+![canvas](https://user-images.githubusercontent.com/80212790/235371574-fc31aec8-46af-46fb-bb46-53b97318efd2.png)
+
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
------
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+![taskanal](https://user-images.githubusercontent.com/80212790/235371616-26373e96-3df0-422e-b470-36703b15b66c.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
 
+![sitemap](https://user-images.githubusercontent.com/80212790/235371672-493dcedc-5620-4294-92fa-042ad17792e6.png)
+
+![f1](https://user-images.githubusercontent.com/80212790/235371762-59e845d6-023a-4185-9966-a1f0717b6379.png)
+
+![f2](https://user-images.githubusercontent.com/80212790/235371767-94b6e27d-3ed5-4887-a0e7-edabf8023037.png)
+
+![f3](https://user-images.githubusercontent.com/80212790/235371772-f0365878-c968-46fd-816e-1e9d7e1d3295.png)
 
 >>> Identificar términos para diálogo con usuario  
 
