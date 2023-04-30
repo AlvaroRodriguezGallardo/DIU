@@ -136,9 +136,20 @@ Término | Significado
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
------
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+![1 INICIO](https://user-images.githubusercontent.com/80212790/235371824-24dd1aa3-a553-41e7-ae10-d3199f8f475d.jpg)
+
+![2  QUIENES SOMOS](https://user-images.githubusercontent.com/80212790/235371829-0753249a-f398-418b-a78b-9fa963e111da.png)
+
+![3 GALERIA](https://user-images.githubusercontent.com/80212790/235371835-19cceea8-567d-4298-944b-baab459f8e69.png)
+
+![4 ELIGE TALLER](https://user-images.githubusercontent.com/80212790/235371841-fa767561-8faf-4b13-8604-12c5ebd2b3db.png)
+
+![5 TIENDA](https://user-images.githubusercontent.com/80212790/235371843-586c62ae-eaa5-44b1-8139-876ab21765d5.png)
+
+![6 CESTA](https://user-images.githubusercontent.com/80212790/235371851-ab801e08-f2cc-4609-81a8-cb8536ef6a64.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
