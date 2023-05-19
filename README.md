@@ -188,7 +188,7 @@ Hemos intentado hacer un landing page simple, siguiendo la paleta de colores y t
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-  - A la hora de decidir qué patrones vamos a usar en nuestra página, hemos analizado las distintas necesidades de los usuarios, qué esperan de nuestra web y qué soluciones se ajustan mejor a dichas demandas. Hemos seleccionados los siguientes patrones disponibles en ui-patterns.com:
+A la hora de decidir qué patrones vamos a usar en nuestra página, hemos analizado las distintas necesidades de los usuarios, qué esperan de nuestra web y qué soluciones se ajustan mejor a dichas demandas. Hemos seleccionados los siguientes patrones disponibles en ui-patterns.com:
   - HomeLink: para que el usuario pueda navegar fácilmente al punto de partida de la página web. Utilizaremos el logo de la aplicación como enlace directo a la página principal, desde cualquier otra página. Es decir, el home siempre será accesible. 
   - Navigation Tabs: dividir el menú en varias secciones (en nuestro caso 5) para facilitar la navegación del usuario. 
   - Vertical Dropdown Menu: queremos que el usuario navegue entre las diferentes secciones de la página web, pero el espacio es limitado. Con este patrón podemos reforzar la jerarquía de la página añadiendo un submenú desplegable para cada sección del menú principal. 
@@ -210,31 +210,37 @@ Hemos intentado hacer un landing page simple, siguiendo la paleta de colores y t
 Basándonos en los bocetos de baja calidad de la práctica anterior, buscamos hacer un diseño posible para la página web de tal manera que se recoja todo lo especificado en los apartados anteriores, además de buscar la atención del usuario sin que se sienta incómodo.
 
 PORTADA
+
 Lo primero que se le muestra al usuario va a ser un resumen de qué se va a encontrar en la página, además de las opiniones de otros clientes para que pueda tener cierta referencia al momento de decidirse por un taller o producto. También se incluye un vídeo que muestra cómo se trabaja en el taller directamente.
 
 ![1_PORTADA](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/0cf62bfa-cba5-4588-8da4-3fbf1581a060)
 
 QUIÉNES SOMOS
+
 Una pequeña muestra de cómo se va a organizar la jerarquía de la página. Se intenta jerarquizar la página en apartados más genéricos, evitando así la redundancia y buscando una organización consistente.
 
 ![2_QUIENES_SOMOS](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/e9a9f07e-8d20-47a8-9b28-8fc7eb4b5b87)
 
 GALERÍA
+
 Se muestra cómo se quiere exponer la galería de imágenes, de una manera que el usuario se encuentre cómodo y la navegación por las imágenes sea lo más intuitiva posible, mostrando grupos de 6 fotos. También hemos colocado un filtro por categorías para facilitar aún más la navegación por la galería.
 
 ![3_GALERIA](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/b40cd045-85a5-4e19-bf80-9c56c8b24e06)
 
 RESERVA
+
 Se quiere diferenciar los talleres ofrecidos por la dificultad de los mismos. Como si de un recorrido se tratase, se quiere distinguir los talleres ofrecidos por los conocimientos previos que necesita un posible comprador del taller. Además, se permite al usuario comprobar qué días es posible encontrar ese taller, y se le ofrece introducir la cantidad de personas que van a hacer el taller seleccionado.
 
 ![4_RESERVA](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/a0bd5d71-effe-4fd6-beb0-08519e851500)
 
 TIENDA
+
 De manera intuitiva, se quiere mostrar los productos ofrecidos para su compra por parte de la empresa. El objetivo es que el usuario se sienta cómodo y seguro cuando esté navegando por la tienda. Además, se le ofrece la opción de buscar por nombre o filtrar los productos por cierta característica del mismo.
 
 ![5_TIENDA](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/eefa7833-4d92-4f22-81a2-1fc2fd6ee0d3)
 
 CARRITO
+
 Qué tiene el usuario en la cesta de la compra. Se procura mostrar toda la información que pueda interesarle al usuario. Además, antes de finalizar la compra, se le muestra el total a pagar.
 
 ![6_CARRITO](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/9d65ed6a-64fc-445c-80f5-67d301969f16)
