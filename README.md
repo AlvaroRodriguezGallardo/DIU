@@ -171,7 +171,7 @@ Logo:
 
 Moodboard:
 
-![Uploading Moodboard.png…]()
+![moodboard](https://github.com/AlvaroRodriguezGallardo/DIU/assets/80212790/06f852cf-27e3-409a-a255-6bd4c65ae943)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
