@@ -314,9 +314,13 @@ En conclusión, los dos usuarios esperaban no tener muchas dificultades en la b�
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
+**Descripción del website**
+
 Se trata de una página web de un tablao flamenco situado en Granada. La página permite visualizar múltiples imágenes y vídeos (demasiados, en serio), así como información sobre la organización e historia del flamenco.
 La página busca que cualquier persona se sienta a gusto utilizándola y pueda planificar su asistencia a algunos de los espectáculos que se dan lugar. Para ello se pueden ver los próximos eventos y también se permite realizar una reserva de forma muy sencilla y cómoda, además es posible ver reseñas de otros usuarios.
 Por último se puede rellenar un formulario de contacto para preguntar dudas y ver las preguntas más frecuentes.
+
+**Resumen ejecutivo**
 
 El equipo LosEpsilonDelta han trabajado en la elaboración de un test para evaluar la usabilidad. Entre los participantes podemos encontrar dos perfiles:
 
@@ -325,12 +329,14 @@ Una mujer de 38 años trabajadora, con un gran conocimiento en las TIC.
 
 Con el test desarrollado pretendemos predecir los sentimientos y pensamientos de sendos perfiles, ante el uso de una página web o aplicación. Vamos a usar cuestionarios SUS.
 
+**Metodología**
+
 El test consistirá en hacer que dos tipos de perfiles, distintos en su manejo de la tecnología, usen la página web. Se han evaluado las siguientes situaciones:
 
-Buscar próximos eventos.
-Hacer una reserva de una entrada para un espectáculo.
-Hacer una consulta al personal para resolución de dudas.
-Buscar información de los artistas participantes.
+- Buscar próximos eventos.
+- Hacer una reserva de una entrada para un espectáculo.
+- Hacer una consulta al personal para resolución de dudas.
+- Buscar información de los artistas participantes.
 
 >>> Valoración personal 
 
