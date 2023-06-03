@@ -85,19 +85,3 @@ El logo de Instagram está en negro y no se visualiza bien.
 Vemos poco seguro pedir los datos de la tarjeta de crédito en la web (mejor redirigir a páginas de banco o así)
 Hay barra de búsqueda en la sección de Preguntas frecuentes pero no en el resto de la página.
 De este modo, se proponen como recomendaciones la modificación de estos pequeños detalles con el objetivo de garantizar que el diseño de la aplicación sea más usable y accesible.
-
-* Conclusiones
-
-A partir de la información obtenida, podemos concluir que la aplicación cuenta con una gran variedad de servicios, con una interfaz amigable, atractiva y bien definida. Uno de los aspectos más valorados por los usuarios ha sido la distribución de elementos en la interfaz, proporcionando una gran cantidad de información mediante los recursos visuales (gran presencia de fotos y vídeos). Sin embargo, hay varios aspectos mejorables:
-Menú de más de cinco opciones.
-Excesivo uso del color negro en el fondo
-Sobrecarga de imágenes
-‘¡Tengo Reserva!’ lo vemos redundante, pues es una información que se debería enviar al correo del usuario al comprar las entradas.
-Meter el apartado ‘Experiencias’ en ‘Conócenos’ y que en él se puedan encontrar las reseñas de otros usuarios.
-Poca información en el Landing page, sólo imágenes.
-Las páginas de Contacto y FAQ se retroalimentan (se puede acceder a una a través de la otra). Además, meteríamos una dentro de la otra.
-El logo de Instagram está en negro y no se visualiza bien.
-Vemos poco seguro pedir los datos de la tarjeta de crédito en la web (mejor redirigir a páginas de banco o así)
-Hay barra de búsqueda en la sección de Preguntas frecuentes pero no en el resto de la página.
-De este modo, se proponen como recomendaciones la modificación de estos pequeños detalles con el objetivo de garantizar que el diseño de la aplicación sea más usable y accesible.
-
