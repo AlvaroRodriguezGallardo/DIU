@@ -269,7 +269,7 @@ Caso A
 Comenzaremos estudiando nuestra propia práctica (grupo DIU3.LosEpsilonDelta), donde hemos diseñado una interfaz para página de Artesanía Nazarí.
 
 Caso B
-Estudiaremos la práctica del grupo DIU1.02Amine, que se ha encargado de diseñar una interfaz para la página web del Tablao Flamenco.
+Estudiaremos la práctica del grupo DIU1.02Amine, que se ha encargado de diseñar una interfaz para la página web del Tablao Flamenco. El enlace a su git es https://github.com/minusH001/DIU
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -284,6 +284,14 @@ Estudiaremos la práctica del grupo DIU1.02Amine, que se ha encargado de diseña
 | Cecilia       | M / 59   | Profesora       | Media       | Miedosa      | Windows    | B 
 | Ana           | M / 38   | Data Scientist  | Alta        | Racional     | Windows    | B 
 
+Nos vamos a encargar de evaluar, entre otros puntos:
+
+Buscar próximos eventos.
+Hacer una reserva de una entrada para un espectáculo.
+Hacer una consulta al personal para resolución de dudas.
+Buscar información de los artistas participantes.
+
+En los cuales tenemos que personas como Juan puede tener problemas a la hora de moverse por la página debido a su avanzada edad y su falta de conocimiento en nuevas tecnologías, o el de Cecilia, la cual tiene mala visión y puede dificultar su navegación por la página.
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
