@@ -6,7 +6,7 @@
 
 Hemos utilizado la aplicación Gaze Recorder (https://gazerecorder.com/) para poder hacer una evaluación del seguimiento del ojo frente a las distintas tareas que hemos creado para evaluar la web de un compañero, sobre tablao flamenco. Los heatmaps se encuentran en una carpeta de nuestro proyecto en git (https://github.com/AlvaroRodriguezGallardo/DIU/tree/master/P5/DIU3_LosEpsilonDelta_P5/heatmaps), los cuales no ponemos aquí ya que se trata de 36 imágenes, y puede sobrecargar mucho este documento.
 
-*Diseño del experimento*
+**Diseño del experimento**
 
 En primer lugar hemos seleccionado 6 páginas de las subidas por el grupo DIU1.02Amine. Dichas páginas son: Inicio, Quiénes somos, Galería, Reserva, Contacto y FAQ.
 Con el objetivo de hacer un seguimiento de las partes más destacadas del proyecto, hemos identificado las siguientes áreas de interés que el usuario debe reconocer:
@@ -17,7 +17,7 @@ Con el objetivo de hacer un seguimiento de las partes más destacadas del proyec
   - Buscador según palabras
 
 Además daremos al usuario unas instrucciones con lo que debe hacer en cada imagen. Se han planteado las siguientes tareas en distintas páginas de la web:
-*Tareas supervisadas de atención:*
+**Tareas supervisadas de atención:**
   - Inicio: intenta cambiar el idioma
   - Inicio: intenta acceder al Facebook del taller
   - Inicio: accede a la página de preguntas frecuentes
@@ -27,14 +27,14 @@ Además daremos al usuario unas instrucciones con lo que debe hacer en cada imag
   - Reserva: introduce tus datos de pago
   - Contacto: introduce tu número de teléfono
   - FAQ: haz una búsqueda de la palabra ‘castañuelas’
-*Tareas supervisadas de exploración:*
+**Tareas supervisadas de exploración:**
   - Inicio: ¿qué es lo que más te llama la atención?
   - Quiénes somos: ¿qué es lo que más te llama la atención?
   - Galería: ¿qué es lo que más te llama la atención?
   - 
 La intención es dar un tiempo de 12 segundos para cada imagen
 
-*Recabar usuarios*
+**Recabar usuarios**
 
 Siguiendo las recomendaciones del guión, vamos a reclutar 3 usuarios: un usuario experto (del equipo de análisis de la P4) y dos usuarios objetivos, de modo que podamos comprobar las diferencias entre ellos.
   - Mónica: persona del equipo de análisis, conoce a la perfección la interfaz pues ha contribuido a su crítica en la P4.
